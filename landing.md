@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Looking to learn about how to be more productive? Read on!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 </span>
   <header class="major">
 
-# Landing
+<h1>Productivity Coaching</h1>
 
 </header>
   <div class="content">
