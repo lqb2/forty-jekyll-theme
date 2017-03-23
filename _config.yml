@@ -1,5 +1,5 @@
 # Site settings
-title: Institute for Revolutionary Productivity
+title: Institute for the Self
 subtitle: 
 email: lqb@alum.mit.edu
 description: Change the world by changing yourself.
@@ -15,7 +15,7 @@ phone: 850.443.5020
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 4
 
 # Social settings
 500px_url:
