@@ -1,0 +1,584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"jserve"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"fix",
+				"fixBookURL"
+			],
+			[
+				"an",
+				"anchortag"
+			],
+			[
+				"anc",
+				"anchortag"
+			],
+			[
+				"ren",
+				"rendered_html"
+			],
+			[
+				"template",
+				"template_file"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"ar",
+				"anchortags"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"lqb2",
+				"lqb2writes"
+			],
+			[
+				"git",
+				"github"
+			],
+			[
+				"g",
+				"geoJsonURL"
+			],
+			[
+				"js",
+				"jsonLayer"
+			],
+			[
+				"geo",
+				"geoJsonData2"
+			],
+			[
+				"lo",
+				"locations"
+			],
+			[
+				"u",
+				"uploadSpeed"
+			],
+			[
+				"ad",
+				"addTo"
+			],
+			[
+				"m",
+				"map"
+			],
+			[
+				"geoJ",
+				"geoJsonData"
+			],
+			[
+				"do",
+				"downloadSpeed"
+			],
+			[
+				"pro",
+				"properties"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			],
+			[
+				"sst",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sstxt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lqb/sites/productivity/_config.yml",
+		"/Users/lqb/sites/productivity/index.md",
+		"/Users/lqb/blog/Makefile",
+		"/Users/lqb/blog/_posts/2017-07-12-on-making-writing-too-complex.md",
+		"/Users/lqb/blog/_posts/2017-07-10-mentees-becoming-peers.md",
+		"/Users/lqb/blog/_posts/2017-07-11-becoming-a-more-coherent-person.md",
+		"/Users/lqb/blog/_posts/2017-07-08-making-good-career-decisions.md",
+		"/Users/lqb/blog/_posts/2017-07-09-embodying-who-you-want-to-be.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-09-04-building-your-personal-system-brick-by-brick.html",
+		"/Users/lqb/blog/_posts/tumblr/2016-09-05-balancing-your-personal-system-week-to-week.html",
+		"/Users/lqb/blog/productivity.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-08-18-how-to-make-the-most-of-the-startup-that-is-your.html",
+		"/Users/lqb/blog/_posts/tumblr/2016-08-21-why-running-your-life-like-a-startup-will-help-you.html",
+		"/Users/lqb/sites/libraryviz/Makefile",
+		"/Users/lqb/blog/_posts/post-template.md",
+		"/Users/lqb/blog/post-template.md",
+		"/Users/lqb/blog/_posts/2017-07-07-alternative-futures-scrambled-eye-dream.md",
+		"/Users/lqb/blog/_posts/2017-07-06-alternative-futures-race-reset-and-brainwashing.md",
+		"/Users/lqb/blog/_posts/2017-07-05-alternative-futures-Listening.md",
+		"/Users/lqb/.bash_profile",
+		"/Users/lqb/blog/_posts/2017-07-04-alternative-futures-strength-from-ancestors.md",
+		"/Users/lqb/projects/p5/empty-example/index.html",
+		"/Users/lqb/projects/p5/empty-example/sketch.js",
+		"/Users/lqb/projects/p5/p5.js",
+		"/Users/lqb/projects/p5/empty-example/style.css",
+		"/Users/lqb/blog/_posts/2017-07-03-bodymemory.md",
+		"/Users/lqb/blog/_posts/o",
+		"/Users/lqb/sites/libraryviz/index.html",
+		"/Users/lqb/sites/libraryviz/script.js",
+		"/Users/lqb/sites/libraryviz/update.py",
+		"/Users/lqb/blog/_posts/2017-07-02-memories-in-the-body.md",
+		"/Users/lqb/blog/_posts/2017-07-01-photo-teleportation.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-09-21-turns-out-you-cant-be-good-friends-with-everyone.html",
+		"/Users/lqb/sites/libraryviz/README.md",
+		"/Users/lqb/blog/_posts/2017-06-27-el-the-journey.md",
+		"/Users/lqb/blog/_posts/2017-06-20-evolutionary-leadership-reflection-1.md",
+		"/Users/lqb/now/_config.yml",
+		"/Users/lqb/now/index.html",
+		"/Users/lqb/now/_layouts/default.html",
+		"/Users/lqb/now/_includes/head.html",
+		"/Users/lqb/blog/_posts/2017-06-26-el-the-journey.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-07-31-how-to-make-the-decision-about-what-to-do-in-a.html",
+		"/Users/lqb/blog/_posts/tumblr/2016-04-21-how-i-work.html",
+		"/Users/lqb/blog/_posts/2017-06-25-el-structure-of-the-workshop.md",
+		"/Users/lqb/blog/_includes/analytics.html",
+		"/Users/lqb/blog/_config.yml",
+		"/Users/lqb/blog/_layouts/default.html",
+		"/Users/lqb/blog/_includes/head.html",
+		"/Users/lqb/blog/_posts/tumblr/2016-07-28-how-to-decide-what-to-do-in-a-particular-moment.html",
+		"/Users/lqb/resume.json",
+		"/Users/lqb/sites/online-cv/_includes/career-profile.html",
+		"/Users/lqb/sites/online-cv/index.html",
+		"/Users/lqb/blog/_posts/2017-06-23-alternative-futures-slide.md",
+		"/Users/lqb/now/_posts/2017-06-20-now.md",
+		"/Users/lqb/blog/_posts/2017-06-17-medium-post-1-my-coaching-story.md",
+		"/Users/lqb/blog/about.html",
+		"/Users/lqb/blog/_posts/2017-06-18-listening-to-the-city-a-meditation.md",
+		"/Users/lqb/blog/_posts/2017-06-15-shadow-calendar-part-1.md",
+		"/Users/lqb/blog/_posts/2017-06-16-shadow-calendar-part-2.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-03-15-two-defining-factors.html",
+		"/Users/lqb/blog/_posts/2017-06-14-on-compassionate-leaders-and-boundaries.md",
+		"/Users/lqb/blog/_posts/2017-06-02-alternative-futures-first-migration-decade-two.md",
+		"/Users/lqb/blog/_posts/2017-06-12-getting-outside-of-my-conference-bubble.md",
+		"/Users/lqb/blog/_posts/2017-06-13-alternative-futures-migration-decade-two-2.md",
+		"/Users/lqb/blog/_posts/2017-06-11-when-credit-goes-away-for-a-day.md",
+		"/Users/lqb/blog/_posts/2017-06-09-taking-a-month-away-annually.md",
+		"/Users/lqb/blog/_posts/2017-03-27-the-carriers.part-2.md",
+		"/Users/lqb/blog/_posts/2017-06-02-capitalism-is-theft.md",
+		"/Users/lqb/blog/_posts/2017-05-27-vibrating-together.md",
+		"/Users/lqb/blog/_posts/2017-05-31-sound-is-phyiscal.md",
+		"/Users/lqb/blog/_posts/2017-05-30-trading-soundwalks.md",
+		"/Users/lqb/blog/_posts/2017-05-26-margins-of-safety-arent-all-created-equal.md",
+		"/Users/lqb/sites/online-cv/_config.yml",
+		"/Users/lqb/sites/online-cv/_includes/sidebar.html",
+		"/Users/lqb/sites/online-cv/_includes/about.html",
+		"/Users/lqb/sites/online-cv/_includes/experience.html",
+		"/Users/lqb/sites/online-cv/_includes/projects.html",
+		"/Users/lqb/sites/online-cv/_includes/skills.html",
+		"/Users/lqb/sites/online-cv/_includes/education.html",
+		"/Users/lqb/blog/_posts/2017-05-25-its-not-a-small-world.md",
+		"/Users/lqb/blog/_posts/2017-05-10-futurist-insights.md",
+		"/Users/lqb/blog/_posts/2017-05-13-getting-clear-on-visionary-fiction.md",
+		"/Users/lqb/sites/online-cv/_includes/scripts.html",
+		"/Users/lqb/sites/online-cv/_includes/analytics.html",
+		"/Users/lqb/sites/online-cv/_includes/head.html",
+		"/Users/lqb/sites/online-cv/_includes/footer.html",
+		"/Users/lqb/sites/online-cv/_includes/interests.html",
+		"/Users/lqb/sites/online-cv/_includes/language.html",
+		"/Users/lqb/blog/_posts/2017-05-22-diminishing-marginal-utility-of-too-much-network-growth.md",
+		"/Users/lqb/blog/_posts/2017-05-23-the-rule-of-200.md",
+		"/Users/lqb/blog/_posts/2017-05-21-limits-on-utility-of-growing-a-network.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-09-03-feeling-productive-actually-makes-you-more.html",
+		"/Users/lqb/blog/_posts/tumblr/2016-09-07-on-having-fully-functional-systems-part-2-use.html",
+		"/Users/lqb/blog/about_backup.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-05-07-can-you-be-over-networked.html",
+		"/Users/lqb/blog/_posts/2017-05-16-last-night-in-oakland.md",
+		"/Users/lqb/blog/_posts/2017-05-18-whats-driving-change-in-education-today.md",
+		"/Users/lqb/blog/_posts/2017-05-19-how-higher-ed-will-fix-itself.md",
+		"/Users/lqb/blog/_posts/2017-05-20-being-the-voice-in-someones-head.md",
+		"/Users/lqb/blog/about.md",
+		"/Users/lqb/blog/about",
+		"/Users/lqb/now/_posts/2017-05-07-now.md",
+		"/Users/lqb/blog/_posts/2017-05-12-trauma-and-healing-on-the-rise.md",
+		"/Users/lqb/blog/_posts/2017-05-07-on-the-earth-system-out-of-balance.md",
+		"/Users/lqb/blog/_posts/2017-05-05-random-train-encounter-have-a-good-night.md",
+		"/Users/lqb/blog/_posts/2017-05-06-personal-storytelling-work-to-come.md",
+		"/Users/lqb/blog/_posts/2017-05-03-bessel-van-der-kolk-on-heart-hormones.md",
+		"/Users/lqb/blog/_posts/2017-05-04-white-supremacy-in-action.md",
+		"/Users/lqb/blog/_posts/2017-05-01-two-theories-from-my-time-in-brazil.md",
+		"/Users/lqb/blog/_posts/2017-05-02-bessel-van-dek-kolk-on-mindfulness-and-trauma.md",
+		"/Users/lqb/blog/_posts/2017-04-25-what-are-victims.md",
+		"/Users/lqb/blog/_posts/2017-04-22-bessel-van-der-kolk-on-individual-and-collective-trauma.md",
+		"/Users/lqb/blog/_posts/2017-04-24-emdr-and-powerful-eyes.md",
+		"/Users/lqb/blog/_posts/2017-04-26-notes-on-brazil.md",
+		"/Users/lqb/Desktop/emdr-and-powerful-eyes.html",
+		"/Users/lqb/blog/_posts/2017-04-21-on-real-estate-and-wealthy-people.md",
+		"/Users/lqb/blog/_posts/2017-04-18-on-trauma-and-the-body.md",
+		"/Users/lqb/blog/_posts/tumblr/2016-12-05-why-ill-start-a-personal-email-newsletter.html",
+		"/Users/lqb/blog/_posts/2017-04-19-current-news-media-consumption-practices.md",
+		"/Users/lqb/blog/_posts/2017-04-17-newsletter-reflection-1.md",
+		"/Users/lqb/blog/_posts/2017-04-16-systems-entrepreneurship.md",
+		"/Users/lqb/blog/_posts/tumblr/2017-04-17-newsletter-reflection-1.md",
+		"/Users/lqb/blog/_posts/2017-04-12-where-do-i-find-things-to-write-about.md",
+		"/Users/lqb/blog/_posts/2017-04-14-basic-organization-meeting-framework.md",
+		"/Users/lqb/blog/_posts/2017-04-15-telling-your-personal-story.md",
+		"/Users/lqb/blog/_posts/2017-04-13-random-train-encounter-nyc.md",
+		"/Users/lqb/blog/_posts/2017-03-19-more-random-train-encounters.md",
+		"/Users/lqb/blog/_posts/2017-02-28-random-train-encounter-maylene.md"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"forthc",
+			"build a",
+			"thew",
+			"the six",
+			"brick by",
+			"startup",
+			"lqb2w",
+			"startup",
+			"()",
+			"do",
+			"navigation",
+			"anchortags",
+			"()",
+			"*",
+			" *",
+			"()",
+			"friendship",
+			"turns",
+			"how to decide what to do in a particular moment\n",
+			"()",
+			"[",
+			"()",
+			"sketch",
+			"()",
+			"evol",
+			"()",
+			"marie",
+			"twitter",
+			"()",
+			"ab",
+			"()",
+			"read",
+			"()",
+			"altd",
+			"()",
+			"open ag",
+			"()",
+			"selma",
+			"only",
+			"it's only",
+			"carlo",
+			"[",
+			"otherin",
+			"/",
+			"url",
+			"()",
+			"{:.image}",
+			"image",
+			"true",
+			"hoy",
+			"sabb",
+			"()",
+			"[",
+			"kids",
+			"link",
+			"&#58;",
+			"cogn",
+			"tumblr",
+			"lo",
+			"no",
+			"[",
+			"\t\t",
+			"[",
+			"site",
+			"base",
+			"{.",
+			"hooks",
+			",",
+			"joan",
+			"[",
+			"ja",
+			"jamila",
+			"[",
+			"experiment",
+			"35",
+			"article",
+			"podc",
+			"comin",
+			"ber",
+			"fals",
+			"Emma",
+			"emma",
+			"'",
+			"</li>",
+			"<li>",
+			"in",
+			"th",
+			"td",
+			"[",
+			"h2",
+			"<p>",
+			"</p>",
+			"exc",
+			"*",
+			"[",
+			"é",
+			"cafe",
+			"ex",
+			"about",
+			"gist",
+			"will",
+			"erin g-h",
+			"erin",
+			"g-h",
+			"garnaas-holmes",
+			"balug",
+			"schenk",
+			"casper",
+			"cody ",
+			"plot",
+			"cronin",
+			"jason",
+			"ian",
+			"ian j",
+			"ian",
+			"danya",
+			"friends: ",
+			"emm",
+			"csv",
+			"jsk",
+			"jonath",
+			"danya",
+			"dan",
+			"kath",
+			"()",
+			"cal",
+			"otp",
+			"options"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"g-h",
+			"coffeeData",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 123.0
+	},
+	"pinned_build_system": "",
+	"project": "productivity.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/sites/productivity/_config.yml"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"up",
+				"update.py"
+			],
+			[
+				"upda",
+				"update.py"
+			],
+			[
+				"i",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/sublime-projects/productivitycoaching.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
