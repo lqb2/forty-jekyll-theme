@@ -107,7 +107,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -170,8 +170,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/lqb/sites/productivity"
+	],
 	"file_history":
 	[
+		"/Users/lqb/sites/productivity/coaching",
 		"/Users/lqb/sites/productivity/_config.yml",
 		"/Users/lqb/sites/productivity/index.md",
 		"/Users/lqb/blog/Makefile",
@@ -298,8 +303,7 @@
 		"/Users/lqb/blog/_posts/2017-04-14-basic-organization-meeting-framework.md",
 		"/Users/lqb/blog/_posts/2017-04-15-telling-your-personal-story.md",
 		"/Users/lqb/blog/_posts/2017-04-13-random-train-encounter-nyc.md",
-		"/Users/lqb/blog/_posts/2017-03-19-more-random-train-encounters.md",
-		"/Users/lqb/blog/_posts/2017-02-28-random-train-encounter-maylene.md"
+		"/Users/lqb/blog/_posts/2017-03-19-more-random-train-encounters.md"
 	],
 	"find":
 	{
@@ -318,6 +322,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"div",
+			"<hr class=\"major\" />",
 			"forthc",
 			"build a",
 			"thew",
@@ -443,9 +449,7 @@
 			"dan",
 			"kath",
 			"()",
-			"cal",
-			"otp",
-			"options"
+			"cal"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -554,7 +558,7 @@
 		[
 			[
 				"",
-				"~/sublime-projects/productivitycoaching.sublime-project"
+				"~/sublime-projects/productivitycoaching.sublime-workspace"
 			]
 		],
 		"width": 380.0

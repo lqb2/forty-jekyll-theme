@@ -12,21 +12,24 @@ title: Coaching
 		<header class="major">
 			<h1>Coaching</h1>
 		</header>
+		<p>If you've made it here, you're curious about how my coaching services go or you're already interested in working together and you're just trying to get specific. Either way, enjoy poking around. This page is an experiment (built on 12 July 2017) so I fully expect some things to not make sense. Don't hesitate to ask questions!</p>
+
+<hr class="major" />
 
 <!-- Content -->
 <h2 id="content">Intro Package (3 sessions)</h2>
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>1: Scratching the Surface</h3>
+		<h3>1: Scratching the surface</h3>
 		<p>This session is largely about surfacing your current reality. I'll ask lots of questions and you'll do lots of talking. I'll ask you things about how your day-to-day life and where (and how) you want to be in the future. In the process, I'll share a little bit about what I see and we'll identify a 1-3 areas to work on.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>2: Digging in deeper</h3>
+		<h3>2: Digging in</h3>
 		<p>After having some time (2-8 weeks) to run with those areas we picked out, we'll check in about how things went! Based on that and things I heard in the first session, I'll share more tips, tools, and theory about how to work towards personal change. We'll tweak your list of experiments and then set our sights on session 3.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>3: Learning from experiments</h3>
-		<p>In this session, we'll review how the 2nd round of experiments went. Then, having done two loops of experimentation, we'll reflect on how you **actually** change (or don't!). We'll surface those lessons, reflect on how you forment change for yourself, and then brainstorm how those lessons can be incorporated into new experiments aimed at other changes you want to make. I'll also ask you for a little feedback on how the three sessions went and how to improve them.</p>
+		<p>In this session, we'll review how the 2nd round of experiments went. Then, having done two loops of experimentation, we'll reflect on how you **actually** change (or don't!). After thinking through that, we'll brainstorm how to incorporate those lessons to support other changes you want to make. I'll also ask you for a little feedback on the whole process.</p>
 	</div>
 </div>
 
@@ -36,7 +39,7 @@ title: Coaching
 
 <hr class="major" />
 
-<h2 id="content">Misc.</h2>
+<h2 id="content">Other Offerings</h2>
 <!-- <p></p> -->
 
 <div class="row">
@@ -58,369 +61,34 @@ title: Coaching
 
 <hr class="major" />
 
+
 <!-- Elements -->
 <h2 id="elements">Experimental Offerings</h2>
-<p>These are offerings that I'm starting to experiment with... </p>
-<div class="row 200%">
+<p>These are offerings that I'm starting to experiment with. Until I get them fine tuned, pricing is negotiable. Help me help other folks (and yourself) by trying these out with me!</p>
+<div class="row">
 	<div class="6u 12u$(medium)">
-
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+		<h3>Annual Retreat</h3>
+		<p>Each year for the past couple of years, I've gone on <a href="https://lqb2.github.io/blog/2016/12/23/my-personal-retreat-long-version/">an annual retreat</a> to prep for the next year. In 2018 (assuming we make it that far), I'll be taking 2-3 days between January 1st and 8th to travel somewhere close to Boston, get a quiet house (hopefully with a wood stove), and go through my whole reflection process. If you're interested in coming along, let's talk! I'm happy to support you through my process or you can just come along and do your own thing.</p>
+		<ul class="actions">
+			<li><span class="button special disabled">Who Knows...</span></li>
 		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
+	</div>	
+	<div class="6u 12u$(medium)">
+		<h3>Cohort Coaching</h3>
+		<p>Interested in the Intro Package but want to come with a buddy (or 2 or 3)? I'm testing out how to support groups of 2-4 people to go through a series of 3 sessions together. There's less attention on each individual, but having a built-in support structure and other people to learn with/from can be worth the tradeoff.</p>
+		<ul class="actions">
+			<li><span class="button special disabled">$300-600</span></li>
 		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
+	</div>	
 </div>
 
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
+<hr class="major" />
 
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
+<h2 id="content">A Note about Pricing</h2>
+<p>I'm really interested in making this work available to everyone. I'm also committed to getting compensated what I think the work is worth. So that said, I'm happy to talk and figure out how to make it work. I love bartering and am especially excited to barter outputs that come up in the process.</p>
+<p>For example, one person I worked with wanted to do more pottery. So one of their experiments was to set aside specific blocks time for making pottery. In the end, instead of money, they gave me some of the work they produced. Not only was the output a driver of spending the time on the pottery, it also made them more confident about their pottery!</p>
+<p>I love working out things like this. Partial trades are on the table, too.</p>
 </div>
 
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
 
-<!-- Table -->
-<h3>Table</h3>
-
-<h4>Default</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-</div>
-<div class="6u$ 12u$(medium)">
-
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
-
-<!-- Form -->
-<h3>Form</h3>
-
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
-			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
-
-<!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-	</div>
-</div>
-
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
-
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
-</div>
-</div>
-
-</div>
 </section>
-
-</div>

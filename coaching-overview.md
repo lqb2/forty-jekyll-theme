@@ -1,5 +1,5 @@
 ---
-title: Coaching
+<!-- title: Overview -->
 layout: landing
 description: '...Change the World'
 image: assets/images/pic07.jpg
