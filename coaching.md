@@ -12,12 +12,15 @@ title: Coaching
 		<header class="major">
 			<h1>Coaching</h1>
 		</header>
-		<p>If you've made it here, you're curious about how my coaching services go or you're already interested in working together and you're just trying to get specific. Either way, enjoy poking around. This page is an experiment (built on 12 July 2017) so I fully expect some things to not make sense. Don't hesitate to ask questions!</p>
+		<p>If you've made it here, you're just curious about how my coaching services work. That or you know you're interested and you just want details. Either way, enjoy poking around. This page is an experiment (built on 12 July 2017) so I fully expect some things to not make sense. Don't hesitate to ask questions!</p>
 
 <hr class="major" />
 
 <!-- Content -->
 <h2 id="content">Intro Package (3 sessions)</h2>
+<p>
+	Each session is 90-120 minutes and can be in person, by phone, or by video. The amount of time between each session ranges from 2-6 weeks.
+</p>
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>1: Scratching the surface</h3>
@@ -33,9 +36,9 @@ title: Coaching
 	</div>
 </div>
 
-<p>
-	<b>Pricing</b>: This package is $300 for all three sessions. Each session is 90-120 minutes. 
-</p>
+	<ul class="actions">
+			<li><span class="button special disabled">$300</span></li>
+	</ul>
 
 <hr class="major" />
 
