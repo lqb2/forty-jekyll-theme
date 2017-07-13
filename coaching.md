@@ -13,6 +13,7 @@ title: Coaching
 			<h1>Coaching</h1>
 		</header>
 		<p>If you've made it here, you're just curious about how my coaching services work. That or you know you're interested and you just want details. Either way, enjoy poking around. This page is an experiment (built on 12 July 2017) so I fully expect some things to not make sense. Don't hesitate to ask questions!</p>
+		<p>P.S. — Thanks to Zach P. for asking for this info and prompting me to make this page. Also thanks to Brooke and Abe for adding fuel to the flame.</p>
 
 <hr class="major" />
 
@@ -79,6 +80,7 @@ title: Coaching
 	<div class="6u 12u$(medium)">
 		<h3>Cohort Coaching</h3>
 		<p>Interested in the Intro Package but want to come with a buddy (or 2 or 3)? I'm testing out how to support groups of 2-4 people to go through a series of 3 sessions together. There's less attention on each individual, but having a built-in support structure and other people to learn with/from can be worth the tradeoff.</p>
+		<p>H/T to DCC at <a href="http://infinitegrowth.rocks/">Infinite Growth</a>for this cohort idea.</p>
 		<ul class="actions">
 			<li><span class="button special disabled">$300-600</span></li>
 		</ul>
@@ -90,7 +92,8 @@ title: Coaching
 <h2 id="content">A Note about Pricing</h2>
 <p>I'm really interested in making this work available to everyone. I'm also committed to getting compensated what I think the work is worth. So that said, I'm happy to talk and figure out how to make it work. I love bartering and am especially excited to barter outputs that come up in the process.</p>
 <p>For example, one person I worked with wanted to do more pottery. So one of their experiments was to set aside specific blocks time for making pottery. In the end, instead of money, they gave me some of the work they produced. Not only was the output a driver of spending the time on the pottery, it also made them more confident about their pottery!</p>
-<p>I love working out things like this. Partial trades are on the table, too.</p>
+<p>I love working out arrangements like this. Partial trades are on the table, too. I take payment in cash, via PayPal or Venmo, and am happy to structure whatever payment plan works for you.</p>
+<p></p>
 </div>
 
 
