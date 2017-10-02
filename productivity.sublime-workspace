@@ -99,6 +99,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/lqb/blog/_posts/post-template.md",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -172,12 +180,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/lqb/sites/productivity"
 	],
 	"file_history":
 	[
-		"/Users/lqb/sites/productivity/coaching",
+		"/Users/lqb/sites/productivity/coaching.md",
 		"/Users/lqb/sites/productivity/_config.yml",
+		"/Users/lqb/sites/productivity/elements.md",
+		"/Users/lqb/sites/productivity/coaching-overview.md",
+		"/Users/lqb/sites/productivity/_elements.md",
+		"/Users/lqb/sites/productivity/coaching",
 		"/Users/lqb/sites/productivity/index.md",
 		"/Users/lqb/blog/Makefile",
 		"/Users/lqb/blog/_posts/2017-07-12-on-making-writing-too-complex.md",
@@ -299,15 +310,11 @@
 		"/Users/lqb/blog/_posts/2017-04-17-newsletter-reflection-1.md",
 		"/Users/lqb/blog/_posts/2017-04-16-systems-entrepreneurship.md",
 		"/Users/lqb/blog/_posts/tumblr/2017-04-17-newsletter-reflection-1.md",
-		"/Users/lqb/blog/_posts/2017-04-12-where-do-i-find-things-to-write-about.md",
-		"/Users/lqb/blog/_posts/2017-04-14-basic-organization-meeting-framework.md",
-		"/Users/lqb/blog/_posts/2017-04-15-telling-your-personal-story.md",
-		"/Users/lqb/blog/_posts/2017-04-13-random-train-encounter-nyc.md",
-		"/Users/lqb/blog/_posts/2017-03-19-more-random-train-encounters.md"
+		"/Users/lqb/blog/_posts/2017-04-12-where-do-i-find-things-to-write-about.md"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -322,6 +329,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"analytics",
 			"div",
 			"<hr class=\"major\" />",
 			"forthc",
@@ -448,8 +456,7 @@
 			"danya",
 			"dan",
 			"kath",
-			"()",
-			"cal"
+			"()"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -470,8 +477,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/lqb/blog/_posts/post-template.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -528,6 +564,14 @@
 		"selected_items":
 		[
 			[
+				"coa",
+				"coaching.md"
+			],
+			[
+				"_c",
+				"_config.yml"
+			],
+			[
 				"",
 				"~/sites/productivity/_config.yml"
 			],
@@ -558,7 +602,7 @@
 		[
 			[
 				"",
-				"~/sublime-projects/productivitycoaching.sublime-workspace"
+				"~/sites/productivity/productivity.sublime-project"
 			]
 		],
 		"width": 380.0
