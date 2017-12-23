@@ -9,7 +9,7 @@ image: assets/images/enough.jpg
 
 Our society knows **a lot** about "more," but what do we know about enough? What does it mean to have enough? know enough? be enough? 
 
-This workshop is meant to help start (or deepen) your journey to understand what it means to have enough in your life. 
+This workshop is meant to help start (or deepen) your journey to understand what it means to feel that you have, do, and are already enough.
 
 * **Instructors:** Caroline Howe (has given this workshop +5x), Lawrence Barriner II 
 * **Where:** TBD in Boston. Specific location will be emailed to participants.
