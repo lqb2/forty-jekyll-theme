@@ -20,7 +20,7 @@ title: Coaching
 <!-- Content -->
 <h2 id="content">Intro Package (3 sessions)</h2>
 <p>
-	Each session is 90-120 minutes and can be in person, by phone, or by video. The amount of time between each session ranges from 2-6 weeks.
+	Each session is 90-120 minutes and can be in person, by phone, or by video. The average amount of time between each session is about 4 weeks.
 </p>
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -38,7 +38,7 @@ title: Coaching
 </div>
 
 	<ul class="actions">
-			<li><span class="button special disabled">$300</span></li>
+			<li><span class="button special disabled">$450</span></li>
 	</ul>
 
 <hr class="major" />
@@ -51,14 +51,14 @@ title: Coaching
 		<h3>Tune up / Check in</h3>
 		<p>If you've done the Intro package, we can do a 60 minute tune up/check in at any time (schedules allowing, of course). These are helpful if you want a medium amount of support figuring out how to work through a specific block or barrier in your change processes.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$60</span></li>
+			<li><span class="button special disabled">$80</span></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Personal Systems Consult</h3>
 		<p>If we've never worked together before, but you're not interested in the Intro package, this could be for you. In a single 2-hour session, I'll assess how your personal systems work and how you think about them. Then I'll share a bunch of relevant theory, tips, and tools. I'll also put together a list of resources for you to dig into.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$120</span></li>
+			<li><span class="button special disabled">$200</span></li>
 		</ul>
 	</div>
 </div>
