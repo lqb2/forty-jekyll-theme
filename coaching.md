@@ -12,8 +12,8 @@ title: Coaching
 		<header class="major">
 			<h1>Coaching</h1>
 		</header>
-		<p>If you've made it here, you're either (a) curious about my coaching services or (b) know you're interested and are looking for details. Either way, enjoy poking around. You can check out the origin story of my coaching practice <a href="https://medium.com/@lqb2/how-i-started-a-coaching-practice-c98e9f383d01" target="_blank">on Medium</a> and lots of my other thoughts about productivity <a href="https://lqb2.github.io/blog/tags/#productivity-ref" target="_blank">on my blog</a>. This page is an experiment (built on 12 July 2017) so I fully expect some things to not make sense. Don't hesitate to send me questions!</p>
-		<p>P.S. — Thanks to Zach P. for asking for this info and prompting me to make this page. Also thanks to Brooke and Abe for adding fuel to the flame.</p>
+		<p>If you've made it here, you're either (a) curious about my coaching services or (b) know you're interested and are looking for details. Either way, enjoy poking around. You can check out the origin story of my coaching practice <a href="https://medium.com/@lqb2/how-i-started-a-coaching-practice-c98e9f383d01" target="_blank">on Medium</a> and lots of my other thoughts about productivity <a href="https://lqb2.github.io/blog/tags/#productivity-ref" target="_blank">on my blog</a>. Don't hesitate to send me questions!</p>
+		<p>P.S. — Thanks to Zach P. for asking for this info and prompting me to make this page. Also thanks to Brooke and Abraham for adding fuel to the flame.</p>
 
 <hr class="major" />
 
@@ -38,7 +38,7 @@ title: Coaching
 </div>
 
 	<ul class="actions">
-			<li><span class="button special disabled">$450</span></li>
+			<li><span class="button special disabled">$600</span></li>
 	</ul>
 
 <hr class="major" />
@@ -49,16 +49,16 @@ title: Coaching
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Tune up / Check in</h3>
-		<p>If you've done the Intro package, we can do a 60 minute tune up/check in at any time (schedules allowing, of course). These are helpful if you want a medium amount of support figuring out how to work through a specific block or barrier in your change processes.</p>
+		<p>If you've done the Intro package, we can do a 60 minute tune up/check in at any time (schedules allowing, of course). These are helpful if you want a intermediate level of support working through a specific block or barrier in your change processes.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$80</span></li>
+			<li><span class="button special disabled">$100</span></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Personal Systems Consult</h3>
 		<p>If we've never worked together before, but you're not interested in the Intro package, this could be for you. In a single 2-hour session, I'll assess how your personal systems work and how you think about them. Then I'll share a bunch of relevant theory, tips, and tools. I'll also put together a list of resources for you to dig into.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$200</span></li>
+			<li><span class="button special disabled">$250</span></li>
 		</ul>
 	</div>
 </div>
@@ -72,9 +72,9 @@ title: Coaching
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<h3>Annual Retreat</h3>
-		<p>Each year for the past couple of years, I've gone on <a href="https://lqb2.github.io/blog/2016/12/23/my-personal-retreat-long-version/">an annual retreat</a> to prep for the next year. In 2018 (assuming we make it that far), I'll be taking 2-3 days between January 1st and 8th to travel somewhere close to Boston, get a quiet house (hopefully with a wood stove), and go through my whole reflection process. If you're interested in coming along, let's talk! I'm happy to support you through my process or you can just come along and do your own thing.</p>
+		<p>Check out <a href="https://www.2020vision.space/">2020 Vision</a> if you're interested in joining me in person for some deep annual reflection and planning. You're also welcome to see what I've done for the last few years of my annual reflection retreats <a href="http://lqb2.co/blog/tags/#annual%20reflection-ref">on my blog.</a></p>
 		<ul class="actions">
-			<li><span class="button special disabled">Who Knows...</span></li>
+			<li><a href="https://www.2020vision.space/"><span class="button special disabled">Who Knows...</span></a></li>
 		</ul>
 	</div>	
 	<div class="6u 12u$(medium)">
@@ -82,7 +82,7 @@ title: Coaching
 		<p>Interested in the Intro Package but want to come with a buddy (or 2 or 3)? I'm testing out how to support groups of 2-4 people to go through a series of 3 sessions together. There's less attention on each individual, but having a built-in support structure and other people to learn with/from can be worth the tradeoff.</p>
 		<p>H/T to DCC at <a href="http://infinitegrowth.rocks/">Infinite Growth</a> for this cohort idea.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$300-600</span></li>
+			<li><span class="button special disabled">$450-800</span></li>
 		</ul>
 	</div>	
 </div>
@@ -92,7 +92,7 @@ title: Coaching
 <h2 id="content">A Note about Pricing</h2>
 <p>I'm really interested in making this work available to everyone. I'm also committed to getting compensated what I think the work is worth. So that said, I'm happy to talk and figure out how to make it work. I love bartering and am especially excited to barter outputs that come up in the process.</p>
 <p>For example, one person I worked with wanted to do more pottery. So one of their experiments was to set aside specific blocks time for making pottery. In the end, instead of money, they gave me some of the work they produced. Not only was the output a driver of spending the time on the pottery, it also made them more confident about their pottery!</p>
-<p>I love working out arrangements like this. Partial trades are on the table, too. I take payment in cash, via <a href="https://www.paypal.me/lqb2" target="new">PayPal</a> or <a href="https://venmo.com/lawrence-barrinerii" target="_blank">Venmo</a> , and am happy to structure whatever payment plan works for you.</p>
+<p>I love working out arrangements like this. Partial trades are on the table, too. I take payment in cash, via <a href="https://www.paypal.me/lqb2" target="new">PayPal</a> or <a href="https://venmo.com/lawrence-barrinerii" target="_blank">Venmo</a> , and am happy to structure a payment plan that works for you.</p>
 <p></p>
 </div>
 
