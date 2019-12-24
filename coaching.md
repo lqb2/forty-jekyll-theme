@@ -74,7 +74,7 @@ title: Coaching
 		<h3>Annual Retreat</h3>
 		<p>Check out <a href="https://www.2020vision.space/">2020 Vision</a> if you're interested in joining me in person for some deep annual reflection and planning. You're also welcome to see what I've done for the last few years of my annual reflection retreats <a href="http://lqb2.co/blog/tags/#annual%20reflection-ref">on my blog.</a></p>
 		<ul class="actions">
-			<li><a href="https://www.2020vision.space/"><span class="button special disabled">Who Knows...</span></a></li>
+			<li><a href="https://www.2020vision.space/"><span class="button special disabled">2020 Vision</span></a></li>
 		</ul>
 	</div>	
 	<div class="6u 12u$(medium)">
