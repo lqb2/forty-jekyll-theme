@@ -90,7 +90,7 @@ title: Coaching
 <hr class="major" />
 
 <h2 id="content">A Note about Pricing</h2>
-<p>I'm really interested in making this work available to everyone. I'm also committed to getting compensated what I think the work is worth. So that said, I'm happy to talk and figure out how to make it work. I love bartering and am especially excited to barter outputs that come up in the process. Check out my sliding scale rate sheet <a href="https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit" target="_blank">here</a>.</p>
+<p>I'm really interested in making this work available to everyone. I'm also committed to getting compensated what I think the work is worth. So that said, I'm happy to talk and figure out how to make it work. Check out my sliding scale rate sheet <a href="https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit" target="_blank">here</a>. I also love bartering and am especially excited to barter outputs that come up in the process. </p>
 <p>For example, one person I worked with wanted to do more pottery. So one of their experiments was to set aside specific blocks time for making pottery. In the end, instead of money, they gave me some of the work they produced. Not only was the output a driver of spending the time on the pottery, it also made them more confident about their pottery!</p>
 <p>I love working out arrangements like this. Partial trades are on the table, too. I take payment in cash, via <a href="https://www.paypal.me/lqb2" target="new">PayPal</a> or <a href="https://venmo.com/lawrence-barrinerii" target="_blank">Venmo</a> , and am happy to structure a payment plan that works for you.</p>
 <p></p>
