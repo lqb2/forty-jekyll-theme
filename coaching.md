@@ -38,7 +38,7 @@ title: Coaching
 </div>
 
 	<ul class="actions">
-			<li><span class="button special disabled">$600</span></li>
+			<li><span class="button special disabled">Pricing below</span></li>
 	</ul>
 
 <hr class="major" />
@@ -51,14 +51,14 @@ title: Coaching
 		<h3>Tune up / Check in</h3>
 		<p>If you've done the Intro package, we can do a 60 minute tune up/check in at any time (schedules allowing, of course). These are helpful if you want a intermediate level of support working through a specific block or barrier in your change processes.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$100</span></li>
+			<li><span class="button special disabled">$50-150</span></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Personal Systems Consult</h3>
 		<p>If we've never worked together before, but you're not interested in the Intro package, this could be for you. In a single 2-hour session, I'll assess how your personal systems work and how you think about them. Then I'll share a bunch of relevant theory, tips, and tools. I'll also put together a list of resources for you to dig into.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$250</span></li>
+			<li><span class="button special disabled">$85-330</span></li>
 		</ul>
 	</div>
 </div>
@@ -82,7 +82,7 @@ title: Coaching
 		<p>Interested in the Intro Package but want to come with a buddy (or 2 or 3)? I'm testing out how to support groups of 2-4 people to go through a series of 3 sessions together. There's less attention on each individual, but having a built-in support structure and other people to learn with/from can be worth the tradeoff.</p>
 		<p>H/T to DCC at <a href="http://infinitegrowth.rocks/">Infinite Growth</a> for this cohort idea.</p>
 		<ul class="actions">
-			<li><span class="button special disabled">$450-800</span></li>
+			<li><span class="button special disabled">$350-2000</span></li>
 		</ul>
 	</div>	
 </div>
@@ -90,7 +90,7 @@ title: Coaching
 <hr class="major" />
 
 <h2 id="content">A Note about Pricing</h2>
-<p>I'm really interested in making this work available to everyone. I'm also committed to getting compensated what I think the work is worth. So that said, I'm happy to talk and figure out how to make it work. I love bartering and am especially excited to barter outputs that come up in the process.</p>
+<p>I'm really interested in making this work available to everyone. I'm also committed to getting compensated what I think the work is worth. So that said, I'm happy to talk and figure out how to make it work. I love bartering and am especially excited to barter outputs that come up in the process. Check out my sliding scale rate sheet <a href="https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit" target="_blank">here</a>.</p>
 <p>For example, one person I worked with wanted to do more pottery. So one of their experiments was to set aside specific blocks time for making pottery. In the end, instead of money, they gave me some of the work they produced. Not only was the output a driver of spending the time on the pottery, it also made them more confident about their pottery!</p>
 <p>I love working out arrangements like this. Partial trades are on the table, too. I take payment in cash, via <a href="https://www.paypal.me/lqb2" target="new">PayPal</a> or <a href="https://venmo.com/lawrence-barrinerii" target="_blank">Venmo</a> , and am happy to structure a payment plan that works for you.</p>
 <p></p>
